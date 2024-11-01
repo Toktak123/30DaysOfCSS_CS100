@@ -1,5 +1,5 @@
 body{
-  background-color: #F398BE;
+  background-color: #98f3ad;
 }
 
 .box{
@@ -13,15 +13,15 @@ body{
 }
 
 .search{
-  color: #9E314B;
-  background-color: #F398BE;
+  color: #00ff37;
+  background-color: #b2ffb4;
   width: 50px;
   height: 50px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: 0.5;
+  transition: 0.2;
 }
 
 .text{
@@ -31,7 +31,7 @@ body{
   float: left;
   padding: 0;
   font-size: 15px;
-  transition: 0.4s;
+  transition: 0.3s;
   line-height: 50px;
   width: 0;
 }
