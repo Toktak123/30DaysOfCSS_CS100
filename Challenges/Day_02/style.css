@@ -1,5 +1,5 @@
 body {
-    background-color: #E67BAB;
+    background-color: #0cff69;
     
 }
 
@@ -16,7 +16,7 @@ body {
     border-radius: 50%;
     box-shadow: 0 5px 0 white;
     background: transparent;
-    animation: animate 1s linear infinite;
+    animation: animate 2s linear infinite;
 }
 
 .loading {
